@@ -1,4 +1,6 @@
-Hello Everyone, In the DemographicData Project your understand Descriptive Statistics. 
+"Hello everyone,
+
+In the DemographicData Project, I find and extract significant descriptive statistics information." I hope it will help you as well. 
 As an Excel expert, you need to perform the following tasks with the given dataset, which consists of the demographic details of various countries.
 1) Create the name range for birth rate and income group. 
 2) Calculate various statistical details: 
